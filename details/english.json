@@ -36177,10 +36177,14 @@
     ],
     "subCategories": [
         {
-            "iconName": "Name",
+            "iconName": "Abstract",
             "localizedTitle": "Localized Name",
             "subcategories": [
-                "Puzzle"
+                "Stereo",
+				"Photo",
+				"Puzzle2",
+				"riddleEng"
+				
             ]
         }
     ],
