@@ -35988,7 +35988,7 @@
         },
         {
             "key": 1,
-            "value": "info"
+            "value": "policy"
         },
         {
             "key": 2,
@@ -36173,10 +36173,6 @@
         {
             "key": 47,
             "value": "Retry"
-        },
-        {
-            "key": 48,
-            "value": "Policy"
         }
     ],
     "subCategories": [
